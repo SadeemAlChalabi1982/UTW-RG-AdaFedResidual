@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.xlsx
+*.xls
+*.csv
+*.pkl
+*.joblib
+*.parquet
