@@ -6,7 +6,7 @@ The published notebook retains the supplied research code, except for syntax and
 
 ## Data required
 
-1. Download the ten primary Excel files (four station records and six supporting files) from the [Baghdad dataset on Zenodo](https://doi.org/10.5281/zenodo.22817262).
+1. Download the ten required Excel files (four station records and six supporting files) from the [Baghdad dataset on Zenodo](https://doi.org/10.5281/zenodo.22817262). The additional `data_dictionary.xlsx` documents the data and is not required by the notebook. Cell 1 accepts both the Zenodo filenames and the original project filenames.
 2. The external-generalization cells additionally expect prepared Austin, Tongji, Hannan, and Kirkuk Excel workbooks, and the [Digital Twin workbook](https://doi.org/10.5281/zenodo.24024238). The external source datasets are cited in the paper. The prepared external workbooks are not included in this code repository.
 
 ## Run in Google Colab
